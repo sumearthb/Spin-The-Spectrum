@@ -1,0 +1,17 @@
+.student {
+    display: flex;
+    flex-direction: column;
+    background-color: #f6c492;
+    width: fit-content;
+    padding: 12px;
+    border-radius: 16px;
+    margin: 4px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.statistic {
+    font-size: 14px;
+}

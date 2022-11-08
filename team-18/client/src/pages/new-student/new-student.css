@@ -1,0 +1,45 @@
+.title {
+    font-size: 24px;
+    margin: 0px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.inputCard {
+    background-color: #f6c492;
+    width: clamp(600px, 48%, 900px);
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px black;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    padding: 8px;
+}
+
+.inputGrouping {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+}
+
+.inputBox {
+    width: 350px;
+    padding: 8px;
+    margin: 4px;
+    margin-top: 0px;
+}
+
+.inputLabel {
+    align-self: flex-start;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+    font-size: 12px;
+}

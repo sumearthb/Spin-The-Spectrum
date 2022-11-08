@@ -1,0 +1,13 @@
+button{
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h1{
+    padding-top: 70px;
+}

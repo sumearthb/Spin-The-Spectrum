@@ -1,0 +1,32 @@
+.title {
+
+}
+
+.grouping {
+    background-color: #f6c492;
+    width: clamp(600px, 48%, 900px);
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px black;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    padding: 8px;
+    padding-bottom: 16px;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    margin: auto;
+}
+
+.inputBox {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+
+}
