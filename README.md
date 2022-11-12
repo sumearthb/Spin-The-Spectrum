@@ -1,7 +1,7 @@
 # Spin-The-Spectrum
 Code for Good Web Application
 
-Disclaimer: DO NOT CLONE/COPY THIS CODE.
+Disclaimer: PLEASE DO NOT CLONE OR FORK THIS REPO.
 
 I worked on this project as a part of JPMorgan Chase & Co.'s Code For Good within a team of 6 members.
 It is intended to help the instructors at Spin the Spectrum with predicting and alleviating any tension 
